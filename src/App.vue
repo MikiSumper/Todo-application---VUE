@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import Header from "./components/Header-H";
-import Body from "./components/Body-B";
-import Footer from "./components/Footer-F";
+import Header from "./components/Header";
+import Body from "./components/Body";
+import Footer from "./components/Footer";
 import ToDo from "./model/ToDo";
 import ToDoItem from "./model/ToDoItem";
 
